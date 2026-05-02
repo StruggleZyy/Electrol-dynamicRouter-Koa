@@ -15,20 +15,24 @@
 
 安装前端依赖：
 cd dynamicRouter
+
 npm install
 
 安装后端依赖：
 cd dynamicRouter/server
+
 npm install
 
 启动项目
 启动后端服务器：
 cd dynamicRouter/server
+
 node index.js
 默认情况下，后端服务器会在 http://localhost:3000 上运行。
 
 启动前端开发服务器：
 cd dynamicRouter
+
 npm run dev
 
 注：目前保证项目能正常运行，还没有使用导航守卫，后续会添加导航守卫。
