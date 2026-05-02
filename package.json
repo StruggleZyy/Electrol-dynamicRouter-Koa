@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "element-plus": "^2.13.7",
-    "koa": "^3.2.0",
-    "vue-router": "^4.6.4"
+    "@koa/cors": "^5.0.0",
+    "koa-cors": "^0.0.16",
+    "koa-router": "^14.0.0"
   }
 }
